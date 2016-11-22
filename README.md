@@ -1,3 +1,4 @@
 # hello-world
-A test repository 
-This is test update which is helpful to deferntiate a commit
+
+This is a test update which is helpful to deferntiate a commit
+A second update to the readme file
